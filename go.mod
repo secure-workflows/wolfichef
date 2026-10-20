@@ -1,6 +1,6 @@
 module trendyol.com/security/appsec/devsecops/wolfichef
 
-go 1.20
+go 1.24
 
 require (
 	chainguard.dev/apko v0.9.0
@@ -343,7 +343,7 @@ require (
 	github.com/jinzhu/copier v0.3.5 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
-	github.com/klauspost/compress v1.16.7 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/letsencrypt/boulder v0.0.0-20230717213829-7d66d6705461 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
